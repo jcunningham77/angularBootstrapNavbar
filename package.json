@@ -1,0 +1,19 @@
+{
+  "name": "AngularUICollapsePlunker",
+  "version": "0.0.1",
+  "description": "Simple app to test Angular UI Collapse",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    
+    "angular collapse"
+  ],
+  "author": "Jeff Cunningham",
+  "license": "ISC",
+  "dependencies": {
+  
+    "express": "^4.14.0"
+  }
+}
